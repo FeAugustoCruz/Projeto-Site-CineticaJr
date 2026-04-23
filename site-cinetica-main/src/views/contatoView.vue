@@ -1,6 +1,4 @@
 <template>
-  
-  
   <main class="contato-page">
     
     <div class="page-title-container">
