@@ -98,15 +98,12 @@
           </p>
           <ul class="team-pillars">
             <li>
-              <span class="pillar-icon">🤝</span>
               <span><strong>União</strong> — time que se apoia em cada desafio</span>
             </li>
             <li>
-              <span class="pillar-icon">⚡</span>
               <span><strong>Proatividade</strong> — soluções antes dos problemas</span>
             </li>
             <li>
-              <span class="pillar-icon">🎓</span>
               <span><strong>Aprendizado</strong> — academia aplicada ao mundo real</span>
             </li>
           </ul>
