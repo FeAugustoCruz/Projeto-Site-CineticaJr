@@ -31,13 +31,31 @@
         <article class="service-card reveal" style="--delay: 0ms">
           <div class="card-top">
             <div class="card-icon">🖥️</div>
-            <span class="card-badge card-badge--price">R$ 1.500</span>
+            <span class="card-badge card-badge--price">A confirmar</span>
           </div>
           <h3 class="card-title">Landing Page</h3>
           <p class="card-body">
             Página desenvolvida estrategicamente para converter visitantes em
             clientes, guiando-os a uma ação específica. Design atrativo,
             conteúdo persuasivo e estrutura otimizada para resultados.
+          </p>
+          <div class="card-footer">
+            <router-link to="/contato" class="card-cta">
+              Solicitar proposta
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+            </router-link>
+          </div>
+        </article>
+
+         <!-- Designer -->
+        <article class="service-card reveal" style="--delay: 0ms">
+          <div class="card-top">
+            <div class="card-icon"></div>
+            <span class="card-badge card-badge--price">A confirmar</span>
+          </div>
+          <h3 class="card-title">Designer</h3>
+          <p class="card-body">
+            Um projeto de design de site é essencial para criar uma presença online eficaz e atrativa, que reflita a identidade da sua marca e ofereça uma experiência agradável ao usuário.
           </p>
           <div class="card-footer">
             <router-link to="/contato" class="card-cta">
@@ -93,7 +111,7 @@
         <article class="service-card reveal" style="--delay: 0ms">
           <div class="card-top">
             <div class="card-icon">🌿</div>
-            <span class="card-badge card-badge--price">R$ 1.500</span>
+            <span class="card-badge card-badge--price">A confirmar</span>
           </div>
           <h3 class="card-title">Jardim Filtrante</h3>
           <p class="card-body">
@@ -113,7 +131,7 @@
         <article class="service-card reveal" style="--delay: 70ms">
           <div class="card-top">
             <div class="card-icon">📋</div>
-            <span class="card-badge card-badge--price">R$ 1.500</span>
+            <span class="card-badge card-badge--price">A confirmar</span>
           </div>
           <h3 class="card-title">Manual de Boas Práticas</h3>
           <p class="card-body">
@@ -133,7 +151,7 @@
         <article class="service-card reveal" style="--delay: 140ms">
           <div class="card-top">
             <div class="card-icon">🏷️</div>
-            <span class="card-badge card-badge--price">R$ 1.500</span>
+            <span class="card-badge card-badge--price">A confirmar</span>
           </div>
           <h3 class="card-title">Rotulagem Nutricional</h3>
           <p class="card-body">
@@ -149,7 +167,7 @@
           </div>
         </article>
  
-        <!-- Teste de Prateleira -->
+        <!-- Teste de Prateleira 
         <article class="service-card reveal" style="--delay: 210ms">
           <div class="card-top">
             <div class="card-icon">🔬</div>
@@ -167,7 +185,7 @@
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
             </router-link>
           </div>
-        </article>
+        </article>-->
  
       </div>
     </section>

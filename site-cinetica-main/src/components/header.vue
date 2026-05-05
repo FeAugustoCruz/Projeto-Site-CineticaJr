@@ -187,7 +187,7 @@ export default {
 .header-inner {
   max-width: 1120px;
   margin: 0 auto;
-  padding: 0 28px;
+  padding: 0 23px;
   height: var(--header-h);
   display: flex;
   align-items: center;
