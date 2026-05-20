@@ -8,7 +8,7 @@
  
     <!-- Botão WhatsApp -->
     <a 
-      href="https://wa.me/28999754584" 
+      href="https://wa.me/5528999754584" 
       target="_blank" 
       rel="noopener noreferrer"
       class="whatsapp-button"
