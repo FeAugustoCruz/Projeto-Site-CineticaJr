@@ -260,8 +260,7 @@ export default {
  
       this.isSubmitting = true
       this.showModal('sending', 'Enviando Mensagem', 'Por favor, aguarde enquanto processamos seu formulário.')
- 
-      const ACCESS_KEY = '2b7eb6f3-ec90-4b81-8df2-3d1cfefce41f'
+      const ACCESS_KEY = '66cb4f1d-ffbf-4b17-bd60-358f03b0074c'
       const ENDPOINT_DE_EMAIL = 'https://api.web3forms.com/submit'
  
       const payload = {
